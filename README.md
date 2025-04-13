@@ -13,6 +13,8 @@
 
 **13.01.2025_Basics of programming(C#)_stepik**
 
+**13.04.2025_Git Technology_stepik**
+
 **15.03.2025_Art of soft skills flexible skills for life and study_stepik**
 
 **17.03.2025_C#. LINQ technology_stepik**
